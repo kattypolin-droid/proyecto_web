@@ -40,6 +40,9 @@
         <li><a href="ejercicio3.php">ejercicio3.php</a></li>
         <li><a href="ejercicio4.php">ejercicio4.php</a></li>
         <li><a href="ejercicio5.php">ejercicio5.php</a></li>
+        <li><a href="ejercicio6.php">ejercicio6.php</a></li>
+        <li><a href="ejercicio7.php">ejercicio7.php</a></li>
+        <li><a href="ejercicio8.php">ejercicio8.php</a></li>
         <li><a href="formget.php">formget.php</a></li>
         <li><a href="formpost.php">formpost.php</a></li>
         <li><a href="formpostget.php">formpostget.php</a></li>
